@@ -5,4 +5,3 @@ I'm fluent in Python, HTML, and CSS, and I know some things about Java, and C.
 
 
 
-If you seriously just read all that about me, please find something better to do with your time.
