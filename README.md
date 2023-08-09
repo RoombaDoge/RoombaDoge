@@ -1,7 +1,7 @@
-I'm Ethan, aka RoombaDoge.
-I've been programming stuff for over three years, and to me, it's a personal hobby.
+hi im ethan
 
-I'm fluent in Python, HTML, and CSS, and I know some things about Java, and C.
+fluent in html, css and python
 
-
+2022 - programmer for innovator (aapi)
+2023 - programmer for innovator (webdev)
 
