@@ -1,4 +1,3 @@
-hi im ethan
 
 fluent in html, css and python
 
