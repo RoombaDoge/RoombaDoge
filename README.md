@@ -1,3 +1,3 @@
 
-fluent in html, css and python
+fluent in html, css and python.
 contact me via discord! ethaan_ol
